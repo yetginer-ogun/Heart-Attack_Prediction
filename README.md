@@ -1,1 +1,1 @@
-# Heart-Attack_Prediction
+Modellerin valide elidmesi lazım
